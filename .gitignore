@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 打包文件
+dist/
+build/
+*.spec
+
+# macOS
+.DS_Store 
